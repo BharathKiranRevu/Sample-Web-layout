@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Masonry Card</title>
+
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>  
+
+    <div class="container5">
+        <h1 class ="heading"></h1>
+        <br><br>
+        <div class="box-container">
+        <div class="box-container-1"><img class="save" img src="save.png"></div>
+        <div class="box2"><img class="icon1" img src="icon1.png"><br><br><br><br><br><br><br><br><br>
+            <h3>INDUSTRIAL</h3>
+            <p>SERVICES</p>
+        </div>
+        <div class="box3"><img class="icon01" img src="icon01.png"><br><br><br><br><br><br><br><br><br><br>
+            <h3>RETAIL</h3>
+            <P>SERVICES</P>
+        </div>
+        <div class="box4"><img class="icon3" img src="icon3.png"><br><br><br>
+            <h3>LAND</h3>
+            <P>SERVICES</P>
+        </div>
+        <div class="box90"><img class="icon01" img src="icon01.png"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <h3>LOGISTICS & WAREHOUSE</h3>
+            <P>SERVICES</P>
+        </div>
+        <div class="box7"><img class="icon3" img src="icon3.png"><br><br><br><br><br><br><br><br><br><br>
+            <h3>CORPORATE</h3>
+            <P>SERVICES</P>
+        </div>
+        <div class="box9"><img class="icon1" img src="icon1.png"><br><br><br><br><br><br><br><br><br><br>
+            <h3>INVESTMENT</h3>
+            <P>SERVICES</P>
+        </div>
+        <div class=""><img class="kkiran" img src="kkiran.png">
+            <h3> </h3>
+            <p></p>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
